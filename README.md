@@ -18,9 +18,13 @@ Preprocessing steps include handling missing values, encoding categorical variab
 Justification: These steps are necessary to ensure compatibility with machine learning algorithms and to avoid bias in model training.
 
 ## Results:
-## Correlation Heatmap of Numerical Features
+### Correlation Heatmap of Numerical Features
 
 ![téléchargement (1)](https://github.com/khal94/Prediction-of-Product-Sales/assets/160352736/288c98ad-3c0e-4f21-86ed-4d5a1dbbfd9b)
+
+This heatmap illustrates the correlations between numerical features in the Big Mart Sales dataset. It provides insights into the relationships between various attributes such as item weight, visibility, maximum retail price (MRP), establishment year of the outlet, and outlet sales.
+
+### Exploratory Data Analysis (EDA) for Item_Weight:
 
 
 This first project will be a sales prediction for food items sold at various stores. We want to avoid calling this something vague like "project1." Remember, this will be used to show potential employers your data science skills!
