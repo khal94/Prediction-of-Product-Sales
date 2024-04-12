@@ -20,4 +20,7 @@ Justification: These steps are necessary to ensure compatibility with machine le
 ## Results:
 ## Correlation Heatmap of Numerical Features
 
+![téléchargement (1)](https://github.com/khal94/Prediction-of-Product-Sales/assets/160352736/288c98ad-3c0e-4f21-86ed-4d5a1dbbfd9b)
+
+
 This first project will be a sales prediction for food items sold at various stores. We want to avoid calling this something vague like "project1." Remember, this will be used to show potential employers your data science skills!
